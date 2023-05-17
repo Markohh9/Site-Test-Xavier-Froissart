@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html { 
+  overflow-x: hidden;
+  width: auto;
+  height: auto;
+  scroll-behavior: smooth;
+}
+
+body{
+  scroll-behavior: smooth;
+}
+
+
+@import "./utils/_variables" ;
+
+@import "./utils/_mixins" ;
+
+@import "./utils/_functions" ;
+
+@import "./utils/_placeholders" ;
+
+@import "./base/_typography" ;
+
+/*@import "./pages/_errorPage" ;*/
+
+/* @import "./pages/_apropos" ; */
+
+/* @import "./pages/_appartementPage" ;*/
+
+@import "./layout/_container" ;
+
+@import "./layout/_header" ;
+
+@import "./layout/_footer" ;
+
+@import "./layout/_navigation" ;
+
+@import "./components/_buttons" ;
+
+@import "components/_loader" ;
+
+@import "utils/_animations" ;

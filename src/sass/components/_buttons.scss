@@ -1,0 +1,26 @@
+.scroll-to-top-overlay {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: $color-primary;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    cursor: pointer;
+    z-index: 9999;
+    animation: myAnim 5s ease-in-out 0s infinite alternate-reverse both;
+    border: 2px solid white;
+    &.show {
+        opacity: 1;
+    }
+    
+    .scroll-to-top-icon {
+        font-size: 24px;
+    }
+    }
