@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Site-Test-Xavier-Froissart/static/css/main.bf7c7a6b.css",
+    "main.js": "/Site-Test-Xavier-Froissart/static/js/main.d03186f9.js",
+    "static/media/b.png": "/Site-Test-Xavier-Froissart/static/media/b.9c039fb8d40f1fa6086c.png",
+    "static/media/CV.pdf": "/Site-Test-Xavier-Froissart/static/media/CV.dea9c0943aaadb16b284.pdf",
+    "static/media/Xavier-Froissart.webp": "/Site-Test-Xavier-Froissart/static/media/Xavier-Froissart.8331dd7a7c299cf94291.webp",
+    "static/media/footer-illustration-mail.png": "/Site-Test-Xavier-Froissart/static/media/footer-illustration-mail.b1fe52f57e5504b1d509.png",
+    "static/media/footer-illustration-personne.png": "/Site-Test-Xavier-Froissart/static/media/footer-illustration-personne.17a377c37a5c686ee725.png",
+    "static/media/footer-illustration-location.png": "/Site-Test-Xavier-Froissart/static/media/footer-illustration-location.3e48669e456556e434b1.png",
+    "static/media/footer-illustration-tel.png": "/Site-Test-Xavier-Froissart/static/media/footer-illustration-tel.9f0c8a8cb6048ffa6a70.png",
+    "static/media/docs-cv.png": "/Site-Test-Xavier-Froissart/static/media/docs-cv.24d48ff10bc55f9a3638.png",
+    "index.html": "/Site-Test-Xavier-Froissart/index.html",
+    "main.bf7c7a6b.css.map": "/Site-Test-Xavier-Froissart/static/css/main.bf7c7a6b.css.map",
+    "main.d03186f9.js.map": "/Site-Test-Xavier-Froissart/static/js/main.d03186f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7c7a6b.css",
+    "static/js/main.d03186f9.js"
+  ]
+}
